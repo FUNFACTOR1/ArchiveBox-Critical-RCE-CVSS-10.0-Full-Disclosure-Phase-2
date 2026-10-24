@@ -1,4 +1,3 @@
-<img width="855" height="383" alt="MR  ZELLERS SAID" src="https://github.com/user-attachments/assets/5ddc2f54-275a-4943-9645-691e07759489" />
 # ArchiveBox OpenCode AI Agent Unauthenticated Remote Code Execution (RCE) — CVSS 10.0 | CERT/CC, MITRE e CNA
 Four months of MITRE rejections, retroactive SECURITY.md/CVE changes, CISA acknowledging CVE eligibility but refusing to act, and CERT/CC closing the case unresolved. The result: a second independent ArchiveBox RCE chain — CVSS 10.0 CRITICAL. As promised, further disclosures will follow until the responsible CNAs do their job.
 *When CNAs fail to do their job and no alternative remains, the result is continuing, independent disclosure of CVSS 10.0 vulnerabilities until someone takes responsibility.*
